@@ -1,3 +1,4 @@
+//为测试git的功能，在B3中对代码进行修改
 #include "widget.h"
 
 #include <QApplication>
